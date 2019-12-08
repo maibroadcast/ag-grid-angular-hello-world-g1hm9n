@@ -16,7 +16,7 @@ export class AppComponent  {
     ];
 
     rowData = [
-        { make: 'Toyota', model: 'Celica', price: 35000 },
+        { NAMA PENGELUAR NOTIS: 'PP MUHAMMAD AZIZAN', JENIS NOTIS: 'P22', JUMLAH: 00000 },
         { make: 'Ford', model: 'Mondeo', price: 32000 },
         { make: 'Porsche', model: 'Boxter', price: 72000 }
     ];
